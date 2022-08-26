@@ -1,7 +1,5 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdnz&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thdnz&layout=demo)](https://github.com/thdnz/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thdnz&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdnz&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 # Skills
 <p float="left">
