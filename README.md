@@ -2,7 +2,7 @@
 
 <p>🎓 Formado em Analise e Desenvolvimento de Sistemas pelo IFSP </p>
 <p>🌱 Python e Django </p>
-<p>🔭 Atualmente trabalhando em projetos pessoais </p>
+<p>🔭 Atualmente em processo de migraçao para área de desenvolvimento e trabalhando em projetos pessoais </p>
 
 ## Skills
 
